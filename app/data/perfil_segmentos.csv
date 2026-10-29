@@ -1,0 +1,6 @@
+segmento,nombre,n_vendedores,porcentaje_vendedores,pedidos_entregados,ventas_total,ticket_promedio,items_por_pedido,flete_relativo,tasa_retraso,categorias_distintas
+0,Alto valor y operación estable,334,33.23,31.452,7163.011,246.836,1.073,0.134,0.054,2.371
+1,Bajo ticket y alto flete,241,23.98,35.813,1782.893,55.407,1.124,0.391,0.067,2.369
+2,Mayor riesgo de retraso,140,13.93,31.743,4856.374,178.674,1.087,0.191,0.213,1.929
+3,Pedidos más complejos,67,6.67,28.075,4312.429,163.177,1.627,0.29,0.082,2.09
+4,Alto volumen y diversidad,223,22.19,217.744,26136.523,124.026,1.11,0.22,0.079,5.785
